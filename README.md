@@ -1,11 +1,14 @@
 # rmspe-weka-package
 
-Weka package that adds the RMSPE (Root Mean Square Percentage Error) as metric for classifiers. For formula, see [here](https://www.kaggle.com/c/rossmann-store-sales/overview/evaluation).
+Weka package that adds the RMSPE (Root Mean Square Percentage Error) as metric 
+for classifiers (numeric classes only). 
+
+For formula, see [here](https://www.kaggle.com/c/rossmann-store-sales/overview/evaluation).
 
 
 ## Releases
 
-* [0.0.1](https://github.com/fracpete/rmspe-weka-package/releases/download/v0.0.1/rmspe-0.0.1.zip)
+* [2021.3.12](https://github.com/fracpete/rmspe-weka-package/releases/download/v2021.3.12/rmspe-2021.3.12.zip)
 
 
 
